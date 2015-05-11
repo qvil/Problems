@@ -1,6 +1,6 @@
 # Date : 150511 Mon
 # Author : Taesu Hyeon
-# File name : Fibonacci.py
+# File name : 3. Fibonacci.py
 
 def Fibonacci(num):
 	fibolist = [0 for var in range(num)]

@@ -1,6 +1,6 @@
 # Date : 150511 Mon
 # Author : Taesu Hyeon
-# File name : List_Layer.py
+# File name : 2. List_Layer.py
 
 list1 = ['a','b','c']
 list2 = [1,2,3]

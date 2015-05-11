@@ -1,6 +1,6 @@
 # Date : 150511 Mon
 # Author : Taesu Hyeon
-# File name : List_Sum.py
+# File name : 1. List_Sum.py
 
 ############ for
 # List = [1,2,3,4,5]
