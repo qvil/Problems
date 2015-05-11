@@ -1,7 +1,7 @@
 /*
 *  Date : 150511 Mon
 *  Author : Taesu Hyeon
-*  File name : List_Sum.c
+*  File name : 1. List_Sum.c
 */
 
 #include <stdio.h>
